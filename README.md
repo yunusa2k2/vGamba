@@ -1,4 +1,4 @@
-# vGamba: Inception Inspired Attentive Selective State Space Model
+# vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition
 
 ## Overview
 vGamba is a novel model designed to capture long-range dependencies in complex images while improving efficiency compared to existing Vision Transformers (ViTs) and State-Space Models (SSMs). It integrates attention mechanisms with a state-space model using cross-attentive fusion.
