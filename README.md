@@ -58,7 +58,7 @@ If you use vGamba in your research, please cite our work:
 ```bibtex
 @article{vGamba2025,
   author    = {Your Name},
-  title     = {vGamba: Inception Inspired Attentive Selective State Space Model},
+  title     = {vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition},
   journal   = {Conference Name},
   year      = {2025}
 }
