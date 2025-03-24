@@ -49,7 +49,7 @@ Below is the model performance comparison on **ImageNet-1K**:
 | vGamba-B | 224² | 3.77 | 18.94 | 1125 | 81.1 |
 | vGamba-L | 224² | 6.32 | 31.89 | 746.2 | 82.8 |
 
-vGamba outperforms CNNs, Transformers, and existing SSMs while maintaining computational efficiency. Specifically, **vGamba-L** achieves **82.8% Top-1 accuracy** with only **6.32G FLOPs**, making it significantly more efficient than ViT-B/16 (77.9% with 55.4G FLOPs).
+vGamba outperforms some existing CNN, ViT and SSM-based models while maintaining computational efficiency. Specifically, **vGamba-L** achieves **82.8% Top-1 accuracy** with only **6.32G FLOPs**, making it significantly more efficient than ViT-B/16 (77.9% with 55.4G FLOPs).
 
 Compared to state-of-the-art SSMs like **VMamba-T (82.6%)**, vGamba demonstrates an optimal balance of accuracy, efficiency, and scalability, making it a **promising architecture for real-world AI applications**.
 
